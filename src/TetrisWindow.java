@@ -132,8 +132,5 @@ public class TetrisWindow extends JFrame
     }
 
 
-    public static void main(String[] args)
-    {
-        TetrisWindow tetrisWindow = new TetrisWindow();   
-    } 
+     
 }
